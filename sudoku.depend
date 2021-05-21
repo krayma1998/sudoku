@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1621592661 source:c:\users\visiteur\desktop\c++\sudoku\main.cpp
+
+1621598772 source:c:\users\visiteur\desktop\c++\sudoku\krayma.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1621602538 source:c:\users\visiteur\desktop\c++\sudoku\hdhdhd.cpp
+	<iostream>
+
